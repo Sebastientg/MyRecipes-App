@@ -1,6 +1,4 @@
 
-# MyRecipes App
-
 ## Overview
 
 The MyRecipes app is a simple, user-friendly iOS application that allows users to create, manage, and view their favorite recipes. The app provides functionality to add recipes with details such as title, ingredients, description, and an image. It saves the recipes locally on the device, ensuring that users can access their recipe collection anytime, even offline.
